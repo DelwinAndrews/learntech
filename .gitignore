@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConvertJsonToCsv/.vs/ConvertJsonToCsv/v17
+/ConvertJsonToCsv/.vs/ProjectEvaluation
+/ConvertJsonToCsv/.vs/ConvertJsonToCsv/DesignTimeBuild
+/ConvertJsonToCsv/.vs/ConvertJsonToCsv/FileContentIndex
