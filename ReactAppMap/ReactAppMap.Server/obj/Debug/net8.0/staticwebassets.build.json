@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "HRQvwBhTeofu53tJh4mdaK3gMIuaWebORVhV9fUl/QI=",
+  "Source": "ReactAppMap.Server",
+  "BasePath": "_content/ReactAppMap.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\dandrews2\\source\\repos\\learntech\\ReactAppMap\\reactappmap.client\\reactappmap.client.esproj",
+      "Version": 2,
+      "Source": "reactappmap.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
